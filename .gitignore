@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/PotatoJS.jsproj.user
+/src/PotatoJS.v11.suo
+*.pfx
+/src/bin/Debug
+/src/bld/Debug/resources.resfiles.intermediate
+/src/bld/Debug/LanguageQualifiers.txt.intermediate
+/src/bld/Debug/layout.resfiles
+/src/bld/Debug/layout.resfiles.intermediate
+/src/bld/Debug/PotatoJS.jsproj.FileListAbsolute.txt
+/src/bld/Debug/pri.resfiles
+/src/bld/Debug/pri.resfiles.intermediate
+/src/bld/Debug/priconfig.xml
+/src/bld/Debug/priconfig.xml.intermediate
+/src/bld/Debug/ProjectArchitectures.txt
+/src/bld/Debug/resources.resfiles
+/src/bld/Debug/LanguageQualifiers.txt
+/node_modules
